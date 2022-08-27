@@ -7,7 +7,7 @@ spring:
 
   datasource:
     platform: mysql
-    url:  # 변경해주세요
+    url:
     username:
     password:
     driver-class-name: com.mysql.cj.jdbc.Driver # mysql 8버전
